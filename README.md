@@ -1,7 +1,3 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/31/d2/16/31d2164c54326b7fa63f8b775757754e.gif"  />
 </div>
